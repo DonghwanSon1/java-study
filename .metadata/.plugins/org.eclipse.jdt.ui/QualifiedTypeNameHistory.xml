@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.kh.second.MethodTest"/>
+<fullyQualifiedTypeName name="com.kh.variable.A_Variable"/>
+<fullyQualifiedTypeName name="com.kh.variable.casting.Casting"/>
+<fullyQualifiedTypeName name="com.kh.operator.A_Arithmetic"/>
+<fullyQualifiedTypeName name="com.kh.operator.C_Compound"/>
+<fullyQualifiedTypeName name="com.kh.operator.D_LogicalNegation"/>
+<fullyQualifiedTypeName name="com.kh.operator.E_Comparison"/>
+<fullyQualifiedTypeName name="com.kh.operator.F_Logical"/>
+<fullyQualifiedTypeName name="com.kh.operator.G_Triple"/>
+<fullyQualifiedTypeName name="com.kh.operator.HomeWork"/>
+<fullyQualifiedTypeName name="com.kh.chap03.branch.HomeWork"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="com.kh.chap02.encapsultion.model.vo.Student"/>
+<fullyQualifiedTypeName name="com.kh.example.practice4.model.vo.HomeWork"/>
+<fullyQualifiedTypeName name="com.kh.example.practice4.model.vo.Book"/>
+<fullyQualifiedTypeName name="com.kh.example.practice4.model.vo.Student"/>
+<fullyQualifiedTypeName name="com.kh.chap01_oneVsmany.model.vo.Book"/>
+<fullyQualifiedTypeName name="com.kh.chap01_beforeVSafter.before.model.vo.Desktop"/>
+<fullyQualifiedTypeName name="com.kh.chap02_beforeVSafter.model.vo.SmartPhone"/>
+<fullyQualifiedTypeName name="com.kh.chap03_override.model.vo.Book"/>
+<fullyQualifiedTypeName name="com.kh.practice.chap01_poly.model.vo.Member"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.kh.controller.A_StringPoolTest"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.kh.chap01_list.mvc.controller.MusicController"/>
+<fullyQualifiedTypeName name="com.kh.practice2.model.vo.User"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>

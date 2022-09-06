@@ -1,0 +1,92 @@
+package com.kh.view;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+import com.kh.controller.BusReservationController;
+import com.kh.model.vo.Bus;
+
+
+
+
+	public class BusReservationView {
+	
+		private Scanner sc = new Scanner(System.in);
+		private BusReservationController brc = new BusReservationController();
+		
+		
+	public void mainMenu() {
+			
+			while(true) {
+				
+				System.out.println("----- 인천 버스예매 프로그램 -----");
+				System.out.println("1. 버스 시간표 출력 ");
+				System.out.println("2. 버스 애매 ");
+				System.out.println("3. 버스 애매 취소 ");
+				System.out.println("4. 버스 시간표 변경 ");
+				System.out.println("5. 목적지 검색 ");
+				System.out.println("0. 종료 ");
+				
+				System.out.println(" 메뉴 선택 > ");
+				int menu = sc.nextInt();
+				sc.nextLine();
+				
+				switch(menu) {
+				case 1 :
+					selectList();
+					break;
+				case 2 :
+					
+					break;
+				case 3 :
+					
+					break;
+				case 4 :
+					
+					break;
+				case 0 :
+					System.out.println("프로그램 종료하겠습니다!!!");
+					return;
+				default :
+					System.out.println("메뉴를 다시 입력해 주세요!!!");
+				}
+			}
+		}
+	
+	public void selectList() {
+		ArrayList<Bus> busList = brc.selectList();		
+		for(Bus b : busList) {
+			System.out.println(b);
+		}
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

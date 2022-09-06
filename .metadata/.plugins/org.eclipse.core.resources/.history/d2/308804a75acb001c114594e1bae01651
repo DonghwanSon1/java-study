@@ -1,0 +1,62 @@
+package com.kh.controller;
+
+import java.util.ArrayList;
+
+import com.kh.model.vo.Bus;
+
+
+
+public class BusReservationController {
+	
+	private ArrayList<Bus> busList = new ArrayList<>();
+	{
+		busList.add(new Bus("09:00", 1234, 1, "강릉"));
+		busList.add(new Bus("09:30", 5678, 2, "전주"));
+		busList.add(new Bus("10:00", 9101, 3, "부산"));
+		busList.add(new Bus("12:00", 1121, 1, "부산"));
+		busList.add(new Bus("12:30", 3141, 2, "강릉"));
+		busList.add(new Bus("13:00", 5161, 3, "전주"));
+		busList.add(new Bus("15:00", 7181, 1, "전주"));
+		busList.add(new Bus("15:30", 9202, 2, "부산"));
+		busList.add(new Bus("16:00", 1222, 3, "강릉"));
+		busList.add(new Bus("18:00", 3242, 1, "강릉"));
+		busList.add(new Bus("18:30", 5262, 2, "전주"));
+		busList.add(new Bus("19:00", 7282, 3, "부산"));
+		busList.add(new Bus("22:00", 9303, 3, "서울"));
+		
+	}
+	
+	
+public ArrayList<Bus> selectList(){
+		
+		return busList;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

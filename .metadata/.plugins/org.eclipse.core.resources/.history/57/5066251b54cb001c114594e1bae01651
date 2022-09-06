@@ -1,0 +1,47 @@
+package com.kh.view;
+
+import java.util.Scanner;
+
+import com.kh.controller.BusReservationController;
+
+
+
+public class BusReservationView {
+
+	private Scanner sc = new Scanner(System.in);
+	private BusReservationController brc = new BusReservationController();
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
